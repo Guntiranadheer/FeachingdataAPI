@@ -1,0 +1,37 @@
+.head{
+    margin-left: 50px;
+}
+.movies-card{
+    background-color: burlywood;
+    color: black;
+    width: 250px;
+    height: 150px;
+    text-align: center;
+    gap: 20px;
+    border-radius: 5px;
+
+    
+}
+.mybutton{
+    height: 30px;
+    width: 130px;
+    color: white;
+    background-color: cornflowerblue;
+    border: none;
+    border-radius: 5px;
+   
+}
+.body{
+    display: flex;
+    flex-direction: row;
+    margin-top: 100px;
+
+}
+.total{
+    display: flex;
+    flex-direction: row;
+}
+.heading-section{
+    text-align: center;
+    color:cornflowerblue ;
+}
